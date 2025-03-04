@@ -7,6 +7,7 @@
      😁 <a href ="https://www.vari.com">Vari</a><br/>
      👚 <a href ="https://www.saksfifthavenue.com">Saks Fifth Avenue</a><br/>
      🍫 <a href ="https://www.eatiqbar.com">IQ Bar</a><br/><br/>
+     🔧 <a href ="https://megusztav.github.io/SERVPRO/">SERVPRO Team Carley</a><br/><br/>
      <p><a href = "https://github.com/gfrancialive">Github Account</a> with only SAKS private contribution timeline</p>
   <h3>Things I code with</h3>
       <p>
@@ -21,10 +22,11 @@
         <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
       </p>
   👀 I’m interested in web development in a full stack perspective, as well as gaming development.<br/>
+  👨🏽‍💻 I'm working on building an IT developmental application that provides IT support to both the end-user and IT specialists. <br/>
   🌱 I’m currently reviewing JavaScript fundamentals in preparation for multiple interview processes and looking at web dev courses to continue learning new things.<br/>
   📫 Below is my contact info. I look forward to hearing from you all.<br/><br/>
   <ul>
-  <li>Phone Number: 2563435541</li>
+  <li>Phone Number: 256-343-5541</li>
   <li><a href = "mailto: gusztavfrancia97@gmail.com">Send Email</a></li>
   </ul>
 
