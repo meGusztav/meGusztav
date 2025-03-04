@@ -6,7 +6,7 @@
 <h3>Here are the links to sites that I helped work on and the github account where I provide private contributions to multiple websites</h3>
      😁 <a href ="https://www.vari.com">Vari</a><br/>
      👚 <a href ="https://www.saksfifthavenue.com">Saks Fifth Avenue</a><br/>
-     🍫 <a href ="https://www.eatiqbar.com">IQ Bar</a><br/><br/>
+     🍫 <a href ="https://www.eatiqbar.com">IQ Bar</a><br/>
      🔧 <a href ="https://megusztav.github.io/SERVPRO/">SERVPRO Team Carley</a><br/><br/>
      <p><a href = "https://github.com/gfrancialive">Github Account</a> with only SAKS private contribution timeline</p>
   <h3>Things I code with</h3>
