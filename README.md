@@ -1,8 +1,8 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hiya! Welcome to my page!</h1>
 <p>👋 Hi, I’m @meGusztav or Wilhelm Gusztav Francia from <b>Manila, Philippines</b>, 
-   currently living in <b>Wilsonville, Oregon</b>. <br/>
-   I am a professional software engineer currently working for ITG Software Inc. and Saks Fifth Avenue. </p>
+   currently living in <b>Portland, Oregon</b>. <br/>
+   I am a professional software engineer currently working for SERVPRO Team Carley with previous work on major companies like Saks Fifth Avenue </p>
 <h3>Here are the links to sites that I helped work on and the github account where I provide private contributions to multiple websites</h3>
      😁 <a href ="https://www.vari.com">Vari</a><br/>
      👚 <a href ="https://www.saksfifthavenue.com">Saks Fifth Avenue</a><br/>
